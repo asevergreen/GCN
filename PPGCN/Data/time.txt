@@ -1,0 +1,18 @@
+build kb|m2e|desc:	 2.018 min
+
+Extracting all:	 0.012 min(1 s)
+extract entities|keywords: 0.059 minutes(4 s)
+Adding key-entity relations:	 0.412 min(25 s)
+create SIM matrix:	 0.001 min(0 s)
+
+TIME COST of training Doc2Vec: 1.226 min(74 s)
+
+Formatting and Embedding COST:	 0.121 min(7 s)Formatting and Embedding COST:	 0.169 min(10 s)Formatting and Embedding COST:	 0.177 min(11 s)
+
+Extracting all:	 0.419 min(25 s)
+Extracting all:	 0.608 min(36 s)
+Extracting all:	 0.285 min(17 s)
+extract entities|keywords: 7.926 minutes(476 s)
+Adding key-entity relations:	 0.452 min(27 s)
+create SIM matrix:	 0.133 min(8 s)
+Formatting and Embedding COST:	 4.515 min(271 s)Formatting and Embedding COST:	 3.911 min(235 s)Formatting and Embedding COST:	 3.645 min(219 s)Formatting and Embedding COST:	 6.413 min(385 s)Formatting and Embedding COST:	 2.601 min(156 s)Formatting and Embedding COST:	 4.423 min(265 s)
