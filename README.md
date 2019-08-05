@@ -1,1 +1,1 @@
-# PPGCN
+# GCN
